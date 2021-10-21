@@ -12,15 +12,15 @@
 ![Gambar5](SS/SS5.PNG)
 6.pilih next<p>
 ![Gambar6](SS/SS6.PNG)
-7.proses instal
+7.proses instal<p>
 ![Gabar8](SS/SS8.PNG)
-8.selesai
+8.selesai<p>
 ![Gambar9](SS/SS9.PNG)
-9.untuk mencobanya, silahkan buka CMD kemudian ketik perintah "git --version"
+9.untuk mencobanya, silahkan buka CMD kemudian ketik perintah "git --version"<p>
 ![Gambar10](SS/SS10.PNG)
 ## Cara menggunakan git
-1.Buka website "github" , jika belum terdaftar bisa buat akun dulu, jika sudah bisa langsung masuk
+1.Buka website "github" , jika belum terdaftar bisa buat akun dulu, jika sudah bisa langsung masuk<p>
 ![Gambar11](SS/SS11.PNG)
-2.Buat Repositori baru, misal "LatihanVCS1"
+2.Buat Repositori baru, misal "LatihanVCS1"<p>
 ![Gambar12][SS/SS12.PNG]
 3.
