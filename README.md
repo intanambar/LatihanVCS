@@ -22,5 +22,12 @@
 1.Buka website github , jika belum terdaftar bisa buat akun dulu, jika sudah bisa langsung masuk<p>
 ![Gambar11](SS/SS11.png)
 2.Buat Repositori baru, misal LatihanVCS1<p>
-![Gambar12][SS/SS12.png]
-3.
+![Gambar12](SS/SS12.png)
+3.Buka git Bash, buat direktori baru dengan perintah cd
+![Gambar13](SS/SS13.png)
+![Gambar14](SS/SS14.png)
+4.Untuk menambahkan file, gunakan perintah git add
+![Gambar16](SS/SS16.png)
+5.untuk menyimpan gunakan perintah git commit, dan<p>
+untuk mengirim perubahan menuju server Repositori gunakan perintah git push
+![Gambar15](SS/SS15.png)
