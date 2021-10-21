@@ -28,7 +28,7 @@
 ![Gambar12](SS/SS12.png)<p>
 3.Buka git Bash, buat direktori baru dengan perintah cd<p>
 ![Gambar13](SS/SS13.png)<p>
-![Gambar14](SS/SS14.png)
+![Gambar14](SS/SS14.png)<p>
 4.Untuk menambahkan file, gunakan perintah git add<p>
 ![Gambar16](SS/SS16.png)<p>
 5.untuk menyimpan gunakan perintah git commit, dan
