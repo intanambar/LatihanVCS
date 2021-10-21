@@ -35,4 +35,4 @@
 untuk mengirim perubahan menuju server Repositori gunakan perintah git push<p>
 ![Gambar15](SS/SS15.png) <p>
 
-Sekian dan teimakasih <p>
+Sekian dan terimakasih <p>
