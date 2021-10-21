@@ -20,7 +20,7 @@
 ![Gambar10](SS/SS10.PNG)
 ## Cara menggunakan git
 1.Buka website github , jika belum terdaftar bisa buat akun dulu, jika sudah bisa langsung masuk<p>
-![Gambar11](SS/SS11.PNG)
+![Gambar11](SS/SS11.png)
 2.Buat Repositori baru, misal LatihanVCS1<p>
-![Gambar12][SS/SS12.PNG]
+![Gambar12][SS/SS12.png]
 3.
