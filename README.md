@@ -1,6 +1,7 @@
 # LatihanVCS1
 ## Cara instal git
 1.pertama klik next <p>
+
 ![Gambar1](SS/SS1.PNG)
 2.pilih destinasi lokasi<p>
 ![Gambar2](SS/SS2.PNG)
@@ -23,10 +24,10 @@
 ![Gambar11](SS/SS11.png)
 2.Buat Repositori baru, misal LatihanVCS1<p>
 ![Gambar12](SS/SS12.png)
-3.Buka git Bash, buat direktori baru dengan perintah cd
+3.Buka git Bash, buat direktori baru dengan perintah cd<p>
 ![Gambar13](SS/SS13.png)
 ![Gambar14](SS/SS14.png)
-4.Untuk menambahkan file, gunakan perintah git add
+4.Untuk menambahkan file, gunakan perintah git add<p>
 ![Gambar16](SS/SS16.png)
 5.untuk menyimpan gunakan perintah git commit, dan<p>
 untuk mengirim perubahan menuju server Repositori gunakan perintah git push
