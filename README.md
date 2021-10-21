@@ -33,4 +33,6 @@
 ![Gambar16](SS/SS16.png)<p>
 5.untuk menyimpan gunakan perintah git commit, dan
 untuk mengirim perubahan menuju server Repositori gunakan perintah git push<p>
-![Gambar15](SS/SS15.png)
+![Gambar15](SS/SS15.png) <p>
+
+Sekian dan teimakasih <p>
